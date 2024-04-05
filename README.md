@@ -1,16 +1,16 @@
 ### Hi there 👋
-
-<!--
-**MangeshTPawar/MangeshTPawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Headline
+Data Scientist | Machine Learning Engineer | Data Analyst
+### About Me
+A passionate data scientist with experience in machine learning and data analysis. Eager to leverage data to solve complex problems and create impactful solutions.
+### Tech Stack
+ * Programming Languages: Python, R, SQL
+ * Machine Learning Libraries: TensorFlow, PyTorch, scikit-learn
+ * Data Analysis Libraries: pandas, NumPy, matplotlib
+### Recent Projects
+ * (Project 1 title):
+ * (Project 2 title): 
+### Connect with Me
+ * LinkedIn: 
+ * Email: 
+Open to collaboration on interesting data science and machine learning projects!
