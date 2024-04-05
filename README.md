@@ -1,6 +1,8 @@
-### Hi there 👋
-### Headline
-Data Scientist | Machine Learning Engineer | Data Analyst
+### Hi there 👋 Its Mangesh....
+
+### Data Scientist | Machine Learning Engineer | Data Analyst
+
+
 ### About Me
 A passionate data scientist with experience in machine learning and data analysis. Eager to leverage data to solve complex problems and create impactful solutions.
 ### Tech Stack
