@@ -1,6 +1,6 @@
 ### Hi there 👋 Its Mangesh....
 
-### Data Scientist | Machine Learning Engineer | Data Analyst
+### || Data Scientist || Data Analyst ||
 
 
 ### About Me
@@ -15,4 +15,4 @@ A passionate data scientist with experience in machine learning and data analysi
 ### Connect with Me
  * LinkedIn: 
  * Email: 
-Open to collaboration on interesting data science and machine learning projects!
+
